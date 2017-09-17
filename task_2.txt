@@ -1,0 +1,3 @@
+\b[Oo](\S+)@(\S+).com
+1 совпадение
+ outlook.team@enron.com
