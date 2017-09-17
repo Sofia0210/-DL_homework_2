@@ -1,3 +1,30 @@
-\b[Oo](\S+)@(\S+)[.](\S+)
-1 совпадение
- outlook.team@enron.com
+((\S|<)(o|O)\S+@)\S+)$
+29 совпадений
+To: outlook.team@enron.com
+ Outlook.2000@enron.com
+Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+in the subject line, or send a blank e-mail to
+blank e-mail to on-yild@zdemail.zdlists.com
+Sender: owner-strawbale@crest.org
+From: owner-strawbale@crest.org
+X-From: owner-strawbale@crest.org
+Sender: owner-strawbale@crest.org
+To: outlook.team@enron.com
+ Outlook.2000@enron.com
+Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+From: outlook-migration-team@enron.com
+From: outlook-migration-team@enron.com
+From: online.service@schwab.com
+X-From: ""Charles Schwab & Co., Inc."" <online.service@schwab.com>@ENRON
+From: open2win.0ll1.net@mailman.enron.com
+X-From: Open2Win List Services<open2win.0ll1.net@mailman.enron.com>@ENRON
+From: oportunity@cells4free.com
+X-From: ""Cellular Oportunity"" <oportunity@cells4free.com>@ENRON
+in the subject line, or send a blank e-mail to
+blank e-mail to on-yild@zdemail.zdlists.com
+From: owner-strawbale@crest.org
+X-From: owner-strawbale@crest.org
+Sender: owner-strawbale@crest.org
+Sender: owner-strawbale@crest.org
+Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
+ Outlook.2000@enron.com
