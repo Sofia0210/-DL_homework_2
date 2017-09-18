@@ -1,4 +1,4 @@
-((\S|<)(o|O)\S+@)\S+)$
+((\S|<)(o|O)\S+@)\.\S+)$
 29 
 To: outlook.team@enron.com
  Outlook.2000@enron.com
